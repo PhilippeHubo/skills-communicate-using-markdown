@@ -10,3 +10,6 @@ SELECT *
 FROM thedatabase db
 JOIN otherdatabase odb on odb.id = db.odb_id
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
